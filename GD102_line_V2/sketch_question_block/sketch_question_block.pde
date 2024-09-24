@@ -1,0 +1,10 @@
+background(#0000FF);
+size(400, 400);
+textSize(228);
+text("?", 20, 270); 
+fill(#FFFFFF);
+size(400,400,P3D);
+translate(232, 192, 0); 
+rotateY(0.5);
+fill(#FFFF00);
+box(160);
